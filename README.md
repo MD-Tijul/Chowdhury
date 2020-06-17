@@ -19,7 +19,7 @@
 
 * cd Chowdhury
 
-* python2 Chowdhury.py
+* python2 Tai.py
 
 
 
