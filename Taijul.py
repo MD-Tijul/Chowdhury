@@ -63,7 +63,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;99mMD Azizur Rahman Chowdhury
 \033[1;96mInstagram \033[1;93m: \033[1: Taijul_islam Akter
 \033[1;96mFacebook  \033[1;93m: \033[1: David.Ax4
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MD-Tijul/Chowdhury
+\033[1;96mGithub \033[1;93m: \033[1;99mhttps://github.com/MD-Tijul/Chowdhury
 \033[1;91m======================================="""
 
 def tik():
@@ -100,7 +100,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;99mMD Azizur Rahman Chowdhury 
 \033[1;96mInstagram \033[1;93m: \033[1;Taijul islam Akter
 \033[1;96mFacebook  \033[1;93m: \033[1;David.Ax4
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MD-Tijul/Chowdhury
+\033[1;96mGithub \033[1;93m: \033[1;99mhttps://github.com/MD-Tijul/Chowdhury
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
